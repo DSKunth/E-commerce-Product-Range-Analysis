@@ -21,4 +21,4 @@ The dataset is an open online retail dataset from https://archive.ics.uci.edu/ml
 - UnitPrice: product price per unit
 - CustomerID: reference number uniquely assigned to each customer
 
-(View Dasshboard)[https://public.tableau.com/app/profile/dorothy.kunth/viz/E-commerceDashboard_16599549421270/Dashboard2]
+[View Dashboard](https://public.tableau.com/app/profile/dorothy.kunth/viz/E-commerceDashboard_16599549421270/Dashboard2)

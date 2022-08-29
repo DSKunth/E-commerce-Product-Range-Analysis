@@ -2,7 +2,7 @@
 ## Project Goal
 The goal of this project is to identify the top-performing products, product categories and customers.
 ## Project Scope
-The project’s objective is to carry out the following tasks and communicate data findings and recommendations:
+The project’s objective is to carry out the following tasks and present data findings and recommendations:
 - Data Preprocessing
 - Exploratory Analysis
 - Customer Segmentation using RFM 
@@ -21,4 +21,4 @@ The dataset is an open online retail dataset from [UCI Machine Learning Reposito
 - UnitPrice: product price per unit
 - CustomerID: reference number uniquely assigned to each customer
 
-[View Dashboard](https://public.tableau.com/app/profile/dorothy.kunth/viz/E-commerceDashboard_16599549421270/Dashboard2)
+[View E-commerce Dashboard](https://public.tableau.com/app/profile/dorothy.kunth/viz/E-commerceDashboard_16599549421270/Dashboard2)

@@ -21,4 +21,6 @@ The dataset is an open online retail dataset from [UCI Machine Learning Reposito
 - UnitPrice: product price per unit
 - CustomerID: reference number uniquely assigned to each customer
 
+[View E-commerce Notebook1](https://nbviewer.org/github/DSKunth/E-commerce-Product-Range-Analysis/blob/main/final_project_ecommerce_1.ipynb)
+[View E-commerce Notebook2](
 [View E-commerce Dashboard](https://public.tableau.com/app/profile/dorothy.kunth/viz/E-commerceDashboard_16599549421270/Dashboard2)
